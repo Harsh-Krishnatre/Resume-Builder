@@ -21,7 +21,7 @@ const Footer = () => {
         </g-emoji>{" "}
         by{" "}
         <a href="https://girishgr8.github.io" target="_blank">
-          Girish Thatte
+          Harsh Krishnatre
         </a>
       </p>
     </div>
