@@ -20,7 +20,7 @@ const Footer = () => {
           />
         </g-emoji>{" "}
         by{" "}
-        <a href="https://girishgr8.github.io" target="_blank">
+        <a href="https://github.com/Harsh-Krishnatre" target="_blank">
           Harsh Krishnatre
         </a>
       </p>
